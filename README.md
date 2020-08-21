@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-80ea8ab7a4d9d07ea77156c923e9a1b97a1d73d6
+⚡ Fun fact:80ea8ab7a4d9d07ea77156c923e9a1b97a1d73d6
 
 
 ssh-keygen -t rsa -b 4096 -C "hhhhhroot@icloud.com"
